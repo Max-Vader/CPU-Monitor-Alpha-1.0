@@ -1,0 +1,9 @@
+c:\users\max\documents\visual studio 2013\Projects\CpuMonitor\CpuMonitor\bin\Debug\CpuMonitor.exe.config
+c:\users\max\documents\visual studio 2013\Projects\CpuMonitor\CpuMonitor\bin\Debug\CpuMonitor.exe
+c:\users\max\documents\visual studio 2013\Projects\CpuMonitor\CpuMonitor\bin\Debug\CpuMonitor.pdb
+c:\users\max\documents\visual studio 2013\Projects\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2013\Projects\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.exe
+c:\users\max\documents\visual studio 2013\Projects\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\CpuMonitor2\CpuMonitor\bin\Debug\CpuMonitor.exe.config
+C:\Users\Max\Documents\Visual Studio 2013\Projects\CpuMonitor2\CpuMonitor\obj\Debug\CpuMonitor.exe
+C:\Users\Max\Documents\Visual Studio 2013\Projects\CpuMonitor2\CpuMonitor\obj\Debug\CpuMonitor.pdb
